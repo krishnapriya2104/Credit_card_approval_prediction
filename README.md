@@ -23,8 +23,8 @@ Tools & Platforms:
 
 credit-card-approval-prediction/
 │
-├── notebooks/          # colab notebook
-├── model/              # Trained machine learning models
-├── data/               # Dataset files
-├── app.py              # Streamlit or Flask app (if any)
-└── README.md           # Project documentation
+├── credit_project.ipynb    # colab notebook
+├── rfodel.sav              # bestmodel
+├── scaler                  # scaler
+├── app.py                  # Streamlit or Flask app (if any)
+└── README.md               # Project documentation
