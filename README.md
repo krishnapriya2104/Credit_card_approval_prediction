@@ -23,6 +23,7 @@ Tools & Platforms:
 
 credit-card-approval-prediction/
 │
+├── creditcard_new          #dataset
 ├── credit_project.ipynb    # colab notebook
 ├── rfodel.sav              # bestmodel
 ├── scaler                  # scaler
